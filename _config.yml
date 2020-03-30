@@ -1,6 +1,6 @@
 encoding: UTF-8
 title: 钟辰（Leo）
 logo: /assets/img/picture.jpg
-description: Hi
+description: [English version](./another-page.md)
 show_downloads: False
 theme: jekyll-theme-minimal
