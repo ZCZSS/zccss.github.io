@@ -1,15 +1,3 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 ## 个人信息
 ### 姓名：钟辰
 ### Email：zy21036@nottingham.edu.cn
@@ -19,3 +7,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 * GPA:4.0/4.0
 * 院长奖学金（前10%，2017&2018），诺丁汉卓越成就奖（2019），学院奖学金（前1.5%，2019）
 #### 芝加哥大学║分析学（数据分析）学士║2020年9月至2022年3月（预计）
+## 工作经历
+## 研究经历
+## 课外活动
+## 资讯项目&分析报告&写作
