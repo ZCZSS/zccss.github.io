@@ -1,5 +1,5 @@
-theme: jekyll-theme-minimal
 title: 钟辰（Leo）
 logo: /assets/img/picture.jpg
-description: [English version](en-index.md)
-show_downloads: False
+description: [English version](another-page.md)
+show_downloads: True
+theme: jekyll-theme-minimal
