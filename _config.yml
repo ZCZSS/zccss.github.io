@@ -1,4 +1,6 @@
+title: 钟辰（Leo）
+logo: /assets/img/picture.jpg
+description: [English version](en-index.md)
+show_downloads: False
+google_analytics:
 theme: jekyll-theme-minimal
-title: 个人主页
-description: [English version](./en-index.html)
-logo: picture.jpg
