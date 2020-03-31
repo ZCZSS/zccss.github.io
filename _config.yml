@@ -5,6 +5,6 @@ description: >
   Email zy21036@nottingham.edu.ch<br>
   电话 +86 18605709999<br>
   <a href="www.linkedin.com/in/chen-zhong18">View My LinkedIn Profile</a><br>
-  [English version](/english.md)
+  <a href="/another-page.md">English version</a>
 show_downloads: False
 theme: jekyll-theme-minimal
